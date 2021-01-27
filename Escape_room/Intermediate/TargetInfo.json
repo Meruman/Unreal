@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Escape_room",
+			"Path": "C:\\Users\\marti\\Documents\\mter\\clases\\Proyectos\\Unreal\\Escape_room\\Source\\Escape_room.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "Escape_roomEditor",
+			"Path": "C:\\Users\\marti\\Documents\\mter\\clases\\Proyectos\\Unreal\\Escape_room\\Source\\Escape_roomEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

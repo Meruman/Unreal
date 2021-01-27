@@ -1,0 +1,12 @@
+{
+    "configurations": [
+        {
+            "name": "Escape_roomEditor Editor Win64 Development (Escape_room)",
+            "intelliSenseMode": "msvc-x64",
+            "compileCommands": "C:\\Users\\marti\\Documents\\mter\\clases\\Proyectos\\Unreal\\Escape_room\\.vscode\\compileCommands_Escape_room.json",
+            "cStandard": "c17",
+            "cppStandard": "c++17"
+        }
+    ],
+    "version": 4
+}

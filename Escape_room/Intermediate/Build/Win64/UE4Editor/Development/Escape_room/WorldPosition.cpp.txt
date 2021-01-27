@@ -1,0 +1,3 @@
+C:\Users\marti\Documents\mter\clases\Proyectos\Unreal\Escape_room\Intermediate\Build\Win64\UE4Editor\Development\Escape_room\Definitions.Escape_room.h
+C:\Users\marti\Documents\mter\clases\Proyectos\Unreal\Escape_room\Source\Escape_room\WorldPosition.h
+C:\Users\marti\Documents\mter\clases\Proyectos\Unreal\Escape_room\Intermediate\Build\Win64\UE4Editor\Inc\Escape_room\WorldPosition.generated.h
